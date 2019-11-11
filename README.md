@@ -25,7 +25,7 @@ COMMAND PROMPT
 
 (6) Once the process is complete, navigate into the express_Sequelize_RunningQueries_QueryAllActors directory: 
 
-    cd express_Sequelize_
+    cd express_Sequelize_RunningQueries_QueryAllActors
 
 (7) Now in the express_Sequelize_ directory, run the following: 
 
