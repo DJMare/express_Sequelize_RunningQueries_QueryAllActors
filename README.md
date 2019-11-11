@@ -112,6 +112,10 @@ COMMAND PROMPT
 
     nodemon
 
+WEB BROWSER
+
+(27) Navigate to localhost3000/actors to view the list of all actors.: ![navigate to localhost3000-actors in browser to view list of all actors](https://user-images.githubusercontent.com/35668707/68608112-21589580-0480-11ea-9d78-e7ffd398d3ae.JPG)
+
 
 NODEMON NOTE
 
