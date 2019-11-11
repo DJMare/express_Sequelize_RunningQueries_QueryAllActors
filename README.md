@@ -108,7 +108,9 @@ VS CODE
 
 COMMAND PROMPT
 
-(2) Run nodemon in terminal to see DB sync'd up: 
+(26) Run nodemon in terminal to see DB sync'd up: 
+
+    nodemon
 
 
 NODEMON NOTE
