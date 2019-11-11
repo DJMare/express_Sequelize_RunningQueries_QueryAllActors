@@ -85,9 +85,6 @@ COMMAND PROMPT
 
     npm install -g sequelize-auto
 
-
-COMMAND PROMPT
-
 (20) Generate a model file for the actor table. (-h: IP/Hostname; -d: Database; -u: Username for database; -x: Password for database; -o: directory to place the models; -t: comma-seperated names of tables to import):  
 
     sequelize-auto -h localhost -d sakila -u root -x Password1! -o "./models" -t actor
