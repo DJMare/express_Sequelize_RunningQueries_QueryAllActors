@@ -71,7 +71,8 @@ COMMAND PROMPT
 
 VS CODE
 
-(17) Open config/config.json file and change settings to connect to the database: 
+(17) Open config/config.json file and change settings to connect to the database: ![open config json file (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68606621-d1c49a80-047c-11ea-8b7c-43870e26a8bc.JPG)
+
 
 COMMAND PROMPT
 
