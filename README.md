@@ -23,7 +23,7 @@ COMMAND PROMPT
 
     express --view=hbs express_Sequelize_RunningQueries_QueryAllActors
 
-(6) Once the process is complete, navigate into the express_Sequelize_ directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_RunningQueries_QueryAllActors directory: 
 
     cd express_Sequelize_
 
