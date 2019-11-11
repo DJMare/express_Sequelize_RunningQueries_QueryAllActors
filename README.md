@@ -100,9 +100,12 @@ VS CODE
 
 (22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: ![add models sequelize sync in app js file (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68607638-13eedb80-047f-11ea-9075-b0b00fb20cbc.JPG)
 
+(23) In the views folder, create a actors.hbs file and add code to show the names of the actors.: ![create actors hbs file in views folder and add code to view actors (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68607774-6a5c1a00-047f-11ea-805d-7edc5e9a79c0.JPG)
+
+
 COMMAND PROMPT
 
-(22) Run nodemon in terminal to see DB sync'd up: 
+(2) Run nodemon in terminal to see DB sync'd up: 
 
 
 NODEMON NOTE
