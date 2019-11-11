@@ -85,24 +85,20 @@ COMMAND PROMPT
 
     npm install -g sequelize-auto
 
-    
-MYSQL WORKBENCH
-
-(20) Open database in mySql workbench to view columns in table: 
 
 COMMAND PROMPT
 
-(21) Generate a model file for the actor table. (-h: IP/Hostname; -d: Database; -u: Username for database; -x: Password for database; -o: directory to place the models; -t: comma-seperated names of tables to import):  
+(20) Generate a model file for the actor table. (-h: IP/Hostname; -d: Database; -u: Username for database; -x: Password for database; -o: directory to place the models; -t: comma-seperated names of tables to import):  
 
     sequelize-auto -h localhost -d sakila -u root -x Password1! -o "./models" -t actor
     
 VS CODE
 
-(22) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: 
+(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: 
 
 COMMAND PROMPT
 
-(23) Run nodemon in terminal to see DB sync'd up: 
+(22) Run nodemon in terminal to see DB sync'd up: 
 
 
 NODEMON NOTE
