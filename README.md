@@ -27,7 +27,7 @@ COMMAND PROMPT
 
     cd express_Sequelize_RunningQueries_QueryAllActors
 
-(7) Now in the express_Sequelize_ directory, run the following: 
+(7) Now in the express_Sequelize_RunningQueries_QueryAllActors directory, run the following: 
 
     npm install
 
