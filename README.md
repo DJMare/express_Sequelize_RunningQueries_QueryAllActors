@@ -98,7 +98,7 @@ VS CODE
 
 ![require models in app js file (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68607590-ef92ff00-047e-11ea-80bb-b2b0401eb61e.JPG)
 
-(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
+(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: ![add models sequelize sync in app js file (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68607638-13eedb80-047f-11ea-9075-b0b00fb20cbc.JPG)
 
 COMMAND PROMPT
 
