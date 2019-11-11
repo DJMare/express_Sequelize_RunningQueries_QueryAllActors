@@ -54,11 +54,9 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file and update. Need to require the mysql2: ![open index js file (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68560100-8921c880-040d-11ea-883a-9fff7d4ec784.JPG)
+(13) Navigate to the routes/index.js file and update.: ![open index js file (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68560100-8921c880-040d-11ea-883a-9fff7d4ec784.JPG)
 
-![require mysql2 in index js file (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68560131-ab1b4b00-040d-11ea-966e-17847dcee166.JPG)
-
-(14) Require mysql2 in routes/index.js file: 
+(14) Require mysql2 in routes/index.js file: ![require mysql2 in index js file (express_Sequelize_RunningQueries_QueryAllActors)](https://user-images.githubusercontent.com/35668707/68560131-ab1b4b00-040d-11ea-966e-17847dcee166.JPG)
 
 COMMAND PROMPT
 
