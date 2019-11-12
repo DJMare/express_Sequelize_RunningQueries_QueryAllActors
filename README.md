@@ -1,5 +1,5 @@
 # express_Sequelize_RunningQueries_QueryAllActors
-An express app utilizing sequelize to connect to mysql and running specific queries. 
+An express app utilizing sequelize to connect to mySql and running specific queries. 
 
 COMMAND PROMPT
 
