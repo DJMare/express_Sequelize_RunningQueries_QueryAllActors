@@ -1,5 +1,5 @@
 # express_Sequelize_RunningQueries_QueryAllActors
-An express app utilizing sequelize to connect to mySql and running specific queries. 
+An express app utilizing sequelize to connect to mySQL and running specific queries. 
 
 COMMAND PROMPT
 
@@ -7,7 +7,7 @@ COMMAND PROMPT
 
     cd Desktop
 
-(2) Create a new folder on desktop: 
+(2) Create a new folder on Desktop: 
 
     mkdir Express
 
